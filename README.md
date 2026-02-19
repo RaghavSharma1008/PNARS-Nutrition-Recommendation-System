@@ -1,5 +1,8 @@
 # 🥗 PNARS – Personalized Nutrition Analytics & Recommendation System
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=streamlit&logoColor=white)](https://raghavsharma1008-pnars-nutrition-recommendation-syst-app-wgjwju.streamlit.app)
+
+
 > AI-powered personalized nutrition intelligence built using Machine Learning, clustering, and macro-based diet optimization.
 
 ---
