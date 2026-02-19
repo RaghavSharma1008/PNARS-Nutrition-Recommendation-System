@@ -22,7 +22,7 @@ The system integrates rule-based logic with ML-driven ranking for realistic and 
 ---
 ## 🏠 PNARS Home Interface
 
-![Home](assets/home.png)
+![Home](assets/Home.png)
 
 ---
 ## 🧠 Smart User Input Interface
@@ -36,7 +36,7 @@ The system integrates rule-based logic with ML-driven ranking for realistic and 
 ## 🔥 Personalized Recommendation Engine (Core Output)
 
 ![Recommendations](assets/personalised_recommendation.png)
-![Recommendations](assets/recommendations.png)
+![Recommendations](assets/Recommendations.png)
 ![Recommendations](assets/meal_suggestions.png)
 ---
 
