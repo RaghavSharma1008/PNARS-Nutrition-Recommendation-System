@@ -1,0 +1,241 @@
+Food_id,food_name,category,calories,carbs,protein,fat,fibre,sugar,sodium,vitamin_c,iron,calcium,diet_type
+V001,Spinach,vegetable,23,3.6,2.9,0.4,2.2,0.4,79,28,2.7,99,vegan
+V002,Broccoli,vegetable,34,6.6,2.8,0.4,2.6,1.7,33,89,0.7,47,vegan
+V003,Carrot,vegetable,41,9.6,0.9,0.2,2.8,4.7,69,6,0.6,33,vegan
+V004,Potato,vegetable,77,17,2,0.1,2.2,0.8,6,20,0.8,12,vegan
+V005,Tomato,vegetable,18,3.9,0.9,0.2,1.2,2.6,5,14,0.3,18,vegan
+V006,Onion,vegetable,40,9.3,1.1,0.1,1.7,4.2,4,8,0.2,23,vegan
+V007,Garlic,vegetable,149,33,6.4,0.5,2.1,1,17,31,1.7,181,vegan
+V008,Green Peas,vegetable,81,14,5,0.4,5.5,5.7,5,40,1.5,25,vegan
+V009,Capsicum (Bell Pepper),vegetable,31,6,1,0.3,2.1,4.2,2,80,0.4,10,vegan
+V010,Brussels Sprouts,vegetable,43,8.9,3.4,0.3,3.8,2.2,25,85,1.4,42,vegan
+V011,Cauliflower,vegetable,25,5,1.9,0.3,2,1.9,30,48,0.4,22,vegan
+V012,Zucchini,vegetable,17,3.1,1.2,0.3,1,2.5,8,17,0.4,16,vegan
+V013,Eggplant,vegetable,25,5.9,1,0.2,3,3.5,2,2,0.2,9,vegan
+V014,Cucumber,vegetable,16,3.6,0.7,0.1,0.5,1.7,2,2,0.3,16,vegan
+V015,Mushroom (White),vegetable,22,3.3,3.1,0.3,1,2,5,2,0.3,3,vegan
+V016,Sweet Potato,vegetable,86,20.1,1.6,0.1,3,4.2,55,2.6,0.6,30,vegan
+V017,Beetroot,vegetable,43,10,1.6,0.2,2.8,6.8,78,4,0.8,16,vegan
+V018,Cabbage,vegetable,25,5.8,1.3,0.1,2.5,3.2,18,36,0.5,40,vegan
+V019,Radish,vegetable,16,3.4,0.7,0.1,1.6,1.9,39,18,0.3,25,vegan
+V020,Sweet Corn,vegetable,86,19,3.2,1.2,2.7,6.3,15,6.8,0.5,2,vegan
+V021,Collard Greens,vegetable,32,4.4,3,0.6,4,0.5,35,35,0.5,232,vegan
+V022,Kale,vegetable,49,8.8,4.3,0.9,3.6,0.99,38,120,1.5,150,vegan
+V023,Leek,vegetable,61,14.2,1.5,0.3,1.8,3.9,20,12,0.6,59,vegan
+V024,Okra,vegetable,33,7.5,2,0.2,3.2,1.5,7,23,0.6,77,vegan
+V025,Pumpkin,vegetable,26,6.5,1,0.1,0.5,2.8,1,9,0.8,21,vegan
+V026,Swiss Chard,vegetable,19,3.7,1.8,0.2,1.6,1.1,30,30,0.8,51,vegan
+V027,Mustard Greens,vegetable,27,4.7,2.9,0.4,3.2,1.1,25,70,1.6,115,vegan
+V028,Turnip,vegetable,28,6.4,0.9,0.1,1.8,3.8,25,21,0.3,30,vegan
+V029,Arugula,vegetable,25,3.7,2.6,0.7,1.6,2.1,27,15,0.8,160,vegan
+V030,Sweet Onion,vegetable,40,9.3,1.1,0.1,1.7,4.2,4,8,0.2,23,vegan
+V031,Spring Onion,vegetable,32,7.3,1.8,0.2,2.6,2.3,5,18,0.4,30,vegan
+V032,Bok Choy,vegetable,13,2.2,1.5,0.2,1,1.2,65,45,0.8,105,vegan
+V033,Watercress,vegetable,11,1.3,2.3,0.1,0.5,0.2,140,43,0.2,120,vegan
+V034,Seaweed (Nori),vegetable,35,5.1,5.8,0.3,0.3,0.6,320,3.3,2.2,70,vegan
+V035,Bamboo Shoot,vegetable,27,5.2,2.6,0.3,2.2,3,5,13,0.7,25,vegan
+V036,Artichoke,vegetable,47,10.5,3.3,0.2,5.4,0.9,94,11,1.3,44,vegan
+V037,Asparagus,vegetable,20,3.9,2.2,0.1,2.1,1.9,2,5,2.1,24,vegan
+V038,Parsley,vegetable,36,6.3,3,0.8,3.3,0.9,56,133,6.2,138,vegan
+V039,Celery,vegetable,16,3,0.7,0.2,1.6,1.4,80,3,0.2,40,vegan
+V040,Fennel,vegetable,31,7.3,1.2,0.2,3.1,3.9,52,12,0.7,49,vegan
+V041,Shallot,vegetable,72,16.8,2.5,0.1,3.2,7.9,12,8,1.5,37,vegan
+V042,Collards,vegetable,32,4.4,3,0.6,4,0.5,35,35,0.5,232,vegan
+V043,Chayote,vegetable,19,4.5,0.8,0.1,2,1.7,2,7,0.2,17,vegan
+V044,Yam,vegetable,118,27.9,1.5,0.2,4.1,0.5,55,17,0.5,17,vegan
+V045,Plantain,vegetable,122,31.9,1.3,0.4,2.3,14.8,2,18,0.6,3,vegan
+V046,Bell Pepper (Yellow),vegetable,27,6,1,0.2,0.9,4.8,1,183,0.4,10,vegan
+V047,Bell Pepper (Red),vegetable,31,6,1,0.3,2.1,4.2,2,128,0.4,10,vegan
+V048,Bell Pepper (Green),vegetable,20,4.6,0.9,0.2,1.7,2.4,2,80,0.4,10,vegan
+V049,Jerusalem Artichoke,vegetable,73,17.4,2,0.01,1.6,9.6,4,4,3,14,vegan
+V050,Edamame,vegetable,121,8.9,11.9,5.2,5.2,2.2,6,6.1,2.3,63,vegan
+G001,White Rice (cooked),grain,130,28.2,2.4,0.3,0.4,0.1,1,0,0.2,10,vegan
+G002,Brown Rice (cooked),grain,123,25.6,2.7,0.9,1.6,0.4,1,0,0.4,10,vegan
+G003,Oats (rolled),grain,389,66.3,16.9,6.9,10.6,0,2,0,4.3,54,vegan
+G004,Quinoa (cooked),grain,120,21.3,4.1,1.9,2.8,0.9,7,0,1.5,17,vegan
+G005,Bulgur,grain,342,76,12.3,1.3,18.3,0,10,0,2.5,35,vegan
+G006,Barley (pearled cooked),grain,123,28.2,2.3,0.4,3.8,0.3,5,0,0.8,10,vegan
+G007,Millet (cooked),grain,119,20.8,3.5,1,1.3,0.1,2,0,0.6,8,vegan
+G008,Sorghum (cooked),grain,119,27.2,3.3,1.3,2.2,0.2,2,0,2.3,3,vegan
+G009,Cornmeal,grain,365,74.3,6.6,3.9,7.3,0.6,35,0,2.7,2,vegan
+G010,Wheat Flour (whole),grain,340,72,13,2.5,12.2,0.4,2,0,3.9,34,vegan
+G011,Whole Wheat Bread,grain,247,41,13,4.2,6.8,5,426,0,3.6,120,vegan
+G012,Basmati Rice (cooked),grain,121,25.2,2.6,0.3,0.4,0.1,1,0,0.2,8,vegan
+G013,Chapati (whole wheat per 40g),grain,110,18.6,3.8,2.3,2,1.1,200,0,1,50,vegetarian
+G014,Idli (per 100g),grain,90,20,3.5,0.5,1.2,1.8,10,0,0.5,10,vegetarian
+G015,Dosa (per 100g),grain,168,34.6,4.2,3.6,1.5,2,13,0,0.6,24,vegetarian
+G016,Rice Flour,grain,366,81.6,6.3,1.2,2.4,0.1,3,0,0.4,10,vegan
+G017,Semolina (Rava),grain,360,72.8,12.7,1.1,3.9,0.4,10,0,1.2,22,vegan
+G018,Oats (cooked),grain,71,12,2.5,1.4,1.7,0,2,0,0.7,8,vegan
+G019,Couscous (cooked),grain,112,23.2,3.8,0.2,1.4,0.1,5,0,0.4,8,vegan
+G020,Polenta (cooked),grain,70,16,2,1,1.4,0.4,5,0,0.2,7,vegan
+G021,Rye Bread,grain,259,48.3,9,3.3,5.9,5.8,558,0,2.7,150,vegan
+G022,Sourdough Bread,grain,289,49,9,3.3,3,2.5,580,0,2.2,120,vegan
+G023,Maize (corn cooked),grain,96,21,3.4,1.5,2.4,4.5,5,0,0.4,3,vegan
+G024,Amaranth (cooked),grain,102,19,3.8,1.6,2.1,1.6,5,0,2.1,47,vegan
+G025,Teff (cooked),grain,101,20.1,3.3,0.9,2,0.3,5,0,2.1,50,vegan
+G026,Millet (raw),grain,378,72.8,11,4.2,8.5,0.6,5,0,3,8,vegan
+G027,Farro (cooked),grain,140,30.3,5.6,0.9,3.1,0.4,2,0,1.8,25,vegan
+G028,Wild Rice (cooked),grain,101,21.3,4,0.3,1.8,0.7,2,0,0.8,4,vegan
+G029,Rice Noodles,grain,109,25.1,1.8,0.2,0.9,0.2,5,0,0.2,6,vegan
+G030,Instant Noodles (per 100g prepared),grain,138,15,4.5,7,1.2,1,560,0,1.8,30,vegetarian
+G031,Muesli,grain,350,66,8,5.5,8,18,2,0,3.5,45,vegan
+G032,Cornflakes,grain,357,84,7,4,3,8,700,0,8.1,10,vegan
+G033,Sago (Tapioca),grain,358,88.7,0.2,0.2,0.9,3.5,10,0,0,10,vegan
+G034,Millet Roti (per 40g),grain,120,22,3.5,2,2.1,0.4,5,0,0.8,20,vegetarian
+G035,Parboiled Rice (cooked),grain,123,26.7,2.6,0.4,1.1,0.2,1,0,0.2,10,vegan
+G036,Instant Oats,grain,389,66.3,16.9,6.9,10.6,0,2,0,4.3,54,vegan
+G037,Semovita (wheat),grain,357,75,11.1,1.8,4,1,2,0,1.1,20,vegan
+G038,Corn Tortilla,grain,218,46,6,2.7,6,0.6,10,0,0.6,20,vegan
+G039,Gram Flour (Besan),grain,387,58.9,22.4,6.7,10.8,10,64,0,4.9,45,vegan
+G040,Lentil Flour (Daalia),grain,360,60,24,6,8,2,20,0,6.5,80,vegan
+D001,Whole Milk (cow),dairy,61,4.8,3.2,3.3,0,4.8,44,0,0,125,vegetarian
+D002,Skim Milk (cow),dairy,34,5,3.4,0.1,0,5,44,0,0,120,vegetarian
+D003,Greek Yogurt (plain),dairy,59,3.6,10,0.4,0,3.2,36,0,0.1,110,vegetarian
+D004,Curd/Yogurt (plain),dairy,61,4.7,3.5,3.3,0,4.7,40,0,0.1,120,vegetarian
+D005,Paneer (cottage cheese),dairy,265,1.2,18.3,20.8,0,0.5,22,0,0.7,208,vegetarian
+D006,Cheddar Cheese,dairy,403,1.3,24.9,33.1,0,0.5,621,0,0.7,721,vegetarian
+D007,Butter,dairy,717,0.1,0.9,81.1,0,0.1,11,0,0,24,vegetarian
+D008,Skyr (Icelandic yogurt),dairy,60,4,11,0.2,0,3.5,45,0,0.1,120,vegetarian
+D009,Soy Milk (unsweetened),dairy,33,0.6,3.3,1.6,0,0.6,50,0,0.7,25,vegan
+D010,Almond Milk (unsweetened),dairy,15,0.3,0.5,1.2,0,0.2,60,0,0.2,17,vegan
+D011,Tofu (firm),dairy,76,1.9,8.1,4.8,0.3,0.3,7,0,1.6,350,vegan
+D012,Whey Protein Powder (per 30g),dairy,120,3,24,1.5,0,1.5,50,0,0.2,100,vegetarian
+D013,Condensed Milk,dairy,321,54.4,7.9,8.7,0,54.4,92,0,0.1,260,vegetarian
+D014,Evaporated Milk,dairy,134,10,6.9,7.6,0,10,75,0,0.1,195,vegetarian
+D015,Ice Cream (vanilla),dairy,207,23.6,3.5,11,0.7,21,80,0,0.1,128,vegetarian
+D016,Mascarpone,dairy,429,3,4.6,44,0,3.1,44,0,0.1,8,vegetarian
+D017,Low-fat Cottage Cheese,dairy,98,3.4,11.1,4.3,0,2.7,43,0,0.2,83,vegetarian
+D018,Buttermilk,dairy,40,4.8,3.3,0.9,0,4.8,104,0,0.1,110,vegetarian
+D019,Goat Milk,dairy,69,4.5,3.6,4.1,0,4.5,50,0,0,134,vegetarian
+D020,Milk Powder (whole),dairy,496,38.7,25.6,26.7,0,38.7,360,0,0.7,912,vegetarian
+D021,Plant-based Yogurt (coconut),dairy,150,18,1,7,0,16,35,0,0.2,20,vegan
+D022,Ghee (clarified butter),dairy,884,0,0,100,0,0,0,0,0,2,vegetarian
+D023,Paneer Tofu (soy paneer),dairy,145,3.3,12.1,9.6,0,1.2,20,0,1.1,150,vegan
+D024,Ricotta Cheese,dairy,174,3,11.3,13,0,0.3,84,0,0.1,207,vegetarian
+D025,Flavoured Yogurt (fruit),dairy,95,14,4,2,0,12,50,0,0.1,150,vegetarian
+D026,Skim Milk Powder,dairy,360,52.3,36.9,0.9,0,52.3,370,0,0.5,1300,vegetarian
+D027,Cream (single),dairy,340,3.3,2,36,0,3.3,44,0,0.1,15,vegetarian
+D028,Casein Protein Powder (per 30g),dairy,120,2,24,1,0,1,50,0,0.2,120,vegetarian
+D029,Fermented Soy (Tempeh),dairy,193,9.4,20.3,10.8,1.4,1.6,9,0,2.7,111,vegan
+D030,Chocolate Milk (sweetened),dairy,83,10,3.2,1.8,0,8.6,50,0,0.1,120,vegetarian
+D001,Full Cream Milk,dairy,90,5,3.2,6,0,5,40,2,0.1,120,veg
+D002,Toned Milk,dairy,61,5,3.1,1.5,0,5,35,2,0.1,110,veg
+D003,Skimmed Milk,dairy,34,5,3.4,0.1,0,5,42,0,0.1,125,veg
+D004,Curd (Dahi),dairy,98,3.4,11,4.3,0,3.4,36,1,0.2,80,veg
+D005,Paneer (Full Fat),dairy,296,4,20,22,0,3,30,0,0.5,208,veg
+D006,Homemade Paneer,dairy,265,2.4,18,20,0,2.4,28,0,0.4,190,veg
+D007,Paneer (Low Fat),dairy,180,3,22,8,0,2,25,0,0.3,120,veg
+D008,Buttermilk (Chaas),dairy,40,4,3.2,1,0,4,45,1,0.1,120,veg
+D009,Lassi (Sweet),dairy,150,20,4,5,0,20,50,1,0.1,130,veg
+D010,Lassi (Salted),dairy,80,4,4,4,0,3,200,1,0.1,120,veg
+D011,Malai,dairy,340,3,2,35,0,3,25,0,0.2,60,veg
+D012,White Butter (Makhan),dairy,717,0.1,1,81,0,0.1,12,0,0.1,24,veg
+D013,Ghee,dairy,900,0,0,100,0,0,0,0,0,2,veg
+D014,Cheddar Cheese,dairy,403,3.2,25,33,0,0.5,621,0,0.7,710,veg
+D015,Mozzarella Cheese,dairy,300,2.2,22,22,0,0.5,600,0,0.8,505,veg
+D016,Amul Cheese Slice,dairy,315,3,20,25,0,2,600,0,0.8,700,veg
+D017,Milk Powder,dairy,496,38,26,26,0,38,340,5,0.7,912,veg
+D018,Condensed Milk,dairy,321,54,7.9,8,0,54,127,2,0.2,280,veg
+D019,Khoa (Mawa),dairy,452,23,16,35,0,23,280,1,0.3,260,veg
+D020,Rabri,dairy,242,25,7,12,0,25,140,1,0.2,210,veg
+D021,Sugar-Free Yogurt,dairy,69,4.7,3.5,3,0,4.7,50,2,0.2,120,veg
+D022,Mishti Doi,dairy,175,22,4,6,0,22,80,1,0.1,140,veg
+D023,Shrikhand,dairy,230,20,7,12,0,20,90,1,0.1,160,veg
+D024,Cream,dairy,340,3,2,36,0,3,30,0,0.1,60,veg
+D025,Tofu (Soy Paneer),plant_protein,76,1.9,8,4.8,0.3,1,14,0.2,1.6,350,vegan
+D026,Soy Milk,plant_milk,54,6,3.2,1.8,0.2,6,45,0,1.1,30,vegan
+D027,Almond Milk,plant_milk,15,0.6,0.5,1.1,0.2,0.6,160,0,0.2,200,vegan
+D028,Cashew Milk,plant_milk,25,2.6,0.8,1.2,0.1,2.6,150,0,0.3,140,vegan
+D029,Coconut Milk,plant_milk,230,6,2.3,24,0,6,15,2,1,180,vegan
+D030,Coconut Cream,plant_milk,330,6.7,3.6,34,0,6.7,20,2,1.5,150,vegan
+D031,Chenna,dairy,289,5,18,22,0,5,26,0,0.2,210,veg
+D032,Khoya Sweetened,dairy,450,55,13,18,0,55,250,1,0.3,180,veg
+D033,Powdered Buttermilk,dairy,370,50,33,8,0,50,500,1,0.5,900,veg
+D034,Malai Paneer,dairy,330,3,19,27,0,3,30,0,0.4,220,veg
+D035,Probiotic Curd,dairy,105,5,4,5,0,5,30,1,0.2,90,veg
+D036,Filtered Milk,dairy,48,4,4,1,0,4,30,1,0.1,110,veg
+D037,Mattha,dairy,45,3.5,3,2,0,3.5,130,1,0.1,100,veg
+D038,Powdered Creamer,dairy,514,75,4,25,0,75,320,0,0.6,150,veg
+D039,Sweetened Lassi Bottle,dairy,140,18,4,4,0,18,70,1,0.1,140,veg
+D040,Kulfi (Malai),dairy,207,26,4,9,0,26,75,1,0.1,180,veg
+D041,Ice Cream (Vanilla),dairy,207,24,3.5,11,0,24,80,0,0.1,120,veg
+D042,Ice Cream (Chocolate),dairy,216,28,3.7,10,0,28,75,0,0.3,110,veg
+D043,Soya Curd,plant_protein,65,3,3.7,3.5,0.1,3,45,1,0.5,150,vegan
+D044,Milkshake (Banana),dairy,120,20,4,3,1,16,55,3,0.2,140,veg
+D045,Milkshake (Strawberry),dairy,130,22,4,3.5,1,20,50,3,0.2,135,veg
+D046,Butter Milk Tetra Pack,dairy,50,4,3,2,0,4,120,1,0.1,110,veg
+D047,Kheer (Plain),dairy,120,23,3,2,0,23,70,1,0.1,150,veg
+D048,Rice Pudding (Indian),dairy,130,24,3,2.5,0,17,80,1,0.2,160,veg
+D049,Peda (Milk Sweet),dairy,315,50,10,9,0,50,160,1,0.2,200,veg
+D050,Rasgulla (Syrup Drained),dairy,186,38,4,0.2,0,38,120,1,0.1,120,veg
+I011,Chicken Curry (100g),indian,160,3,20,7.4,0,0.5,250,0,1.2,8,non-veg
+I012,Rogan Josh (100g),indian,198,2.9,17.3,13.5,0,0.4,160,0,1.9,15,non-veg
+I013,Biryani (Chicken  per 200g serving),indian,290,36,14,10,2,3.2,600,0,1.4,40,non-veg
+I014,Plain Dosa (100g),indian,168,34.6,4.2,3.6,1.5,2,13,0,0.6,24,vegetarian
+I015,Masala Dosa (per 200g),indian,210,36,5,6,2.5,6.5,18,0,1,35,vegetarian
+I016,Idli (per 100g),indian,90,20,3.5,0.5,1.2,1.8,10,0,0.5,10,vegetarian
+I017,Upma (100g),indian,150,26,4,4,1.8,2.3,30,0,0.8,10,vegetarian
+I018,Pongal (100g),indian,123,19,3.6,3.2,1.2,1.1,45,0,0.6,12,vegetarian
+I019,Pav Bhaji (per 200g),indian,210,30,6,8,4,6,650,30,1.1,70,vegetarian
+I020,Misal Pav (per 200g),indian,280,40,8,10,6,8,700,0,3,60,vegetarian
+I021,Aloo Gobi (100g),indian,120,9.5,2.3,7.8,2.6,1.3,150,20,0.6,35,vegetarian
+I022,Saag (100g),indian,55,4.5,3,3.2,2.1,0.5,80,50,1.2,90,vegetarian
+I023,Paneer Tikka (100g),indian,190,6,16,12,0,1.2,420,0,0.9,120,vegetarian
+I024,Chicken Tikka (100g),indian,180,5,21,8,0,1.1,260,0,0.9,10,non-veg
+I025,Fish Curry (100g),indian,140,3,18,6,0,0.5,180,0,0.8,15,non-veg
+I026,Keema (minced meat curry 100g),indian,220,2.5,16,18.5,0,0.5,280,0,1.5,15,non-veg
+I027,Palak (Spinach) Sabzi (100g),indian,45,5,3,2,2.5,1,40,28,0.9,50,vegetarian
+I028,Chana Masala (100g),indian,164,27.4,9,2.6,7.6,4.8,260,2.1,3.9,35,vegetarian
+I029,Dal Makhani (100g),indian,160,14,7,9,5,1.8,380,1.5,3.2,70,vegetarian
+I030,Butter Naan (per naan ~80g),indian,290,38,8,13,2.2,4,540,0,1.1,40,vegetarian
+I031,Garlic Naan (per naan ~80g),indian,270,36,7,10,2,3.5,600,0,0.8,40,vegetarian
+I032,Raita (100g),indian,60,3.8,3.8,3.2,0,3.8,50,0,0.1,120,vegetarian
+I033,Tomato Chutney (per 30g),indian,30,6,0.5,0.5,1.2,4.2,150,6,0.2,8,vegetarian
+I034,Mango Pickle (per 15g),indian,80,5,0.3,6.5,0.3,2.5,350,2,0.1,2,vegetarian
+I035,Sambar Vada (per 100g),indian,220,28,8,8,2.5,3.2,420,0,1.5,40,vegetarian
+I036,Bhature (per piece 80g),indian,310,32,6,18,1.2,2.5,500,0,0.6,25,vegetarian
+I037,Poha (100g),indian,130,24,3.5,2,2.5,1.1,20,0,0.5,10,vegetarian
+I038,Besan Chilla (2 pcs ~150g),indian,210,18,12,8,4,3.2,450,0,3.8,50,vegetarian
+I039,Akki Roti (per 100g),indian,160,30,4,3,2,1.2,15,0,1,10,vegetarian
+I040,Upma (per 150g),indian,225,38,6,8,3,2.5,35,0,1.2,20,vegetarian
+I041,Puri (per piece 40g),indian,190,16,3.5,11,1,0.3,240,0,0.4,10,vegetarian
+I042,Bhindi Masala (Okra 100g),indian,76,7,2,5,2.2,1.7,20,23,0.7,60,vegetarian
+I043,Paneer Paratha (per 150g),indian,340,35,12,16,3.5,4,320,0,1.5,120,vegetarian
+I044,Chicken Korma (100g),indian,210,6,18,12,0,1.3,350,0,1.2,15,non-veg
+I045,Malai Kofta (100g),indian,260,8,6,20,1.5,3.2,420,6,0.7,90,vegetarian
+I046,Paneer Bhurji (100g),indian,195,5,12,14,1,2,280,18,1,110,vegetarian
+I047,Vegetable Pulav (100g),indian,150,22,3.5,5,2,2.8,20,10,0.9,20,vegetarian
+I048,Hyderabadi Biryani (veg per 200g),indian,260,40,6,8,3,4.5,480,0,2,50,vegetarian
+I049,Masoor Dal (100g),indian,116,20,9,0.4,8.1,1.8,15,4.5,3.5,30,vegetarian
+I050,Moong Dal (100g),indian,103,14.2,7,0.4,7.6,1.6,10,2.5,3.3,30,vegetarian
+I051,Soya Chunks Curry (100g),indian,345,24,52,0.5,8,6,20,0,15,200,vegetarian
+I052,Mutton Curry (100g),indian,250,0,21,18,0,0,120,0,2,15,non-veg
+I053,Fish Fry (100g),indian,210,0,22,12,0,0,300,0,1,20,non-veg
+I054,Goan Fish Curry (100g),indian,165,4,18,9,0,0.5,270,0,1.2,18,non-veg
+I055,Chicken 65 (100g),indian,290,6,22,20,0,1.5,600,0,1.1,10,non-veg
+I056,Paneer Butter (per 100g),indian,320,8,10,22,1.5,3,380,2,1.2,140,vegetarian
+I057,Vegetable Korma (100g),indian,150,10,3,10,3,3.5,320,15,0.6,80,vegetarian
+I058,Malabar Parotta (per 100g),indian,330,32,5,18,1.5,2.1,400,0,1,30,vegetarian
+I059,Aloo Paratha (per 120g),indian,300,45,6,10,4,3.5,350,0,1.6,40,vegetarian
+I060,Keer (Rice Khee per 150g),indian,180,30,4,6,0.5,20,60,0,0.4,140,vegetarian
+I061,Idli Sambar Plate (per 200g),indian,180,38,6,2,3,3.5,380,4,1,30,vegetarian
+I062,Masala Vada (per 100g),indian,320,28,12,16,6,2.5,450,0,3,60,vegetarian
+I063,Keema Pav (per 200g),indian,330,30,14,12,2,3.2,700,0,2,35,non-veg
+I064,Chicken Shawarma (per 200g),indian,360,28,20,18,2,4.5,900,0,1.8,40,non-veg
+I065,Vegetable Samosa (per 100g),indian,250,30,6,12,3,3.5,420,0,1,20,vegetarian
+I066,Chicken Samosa (per 100g),indian,280,30,8,14,3,3.5,520,0,1,18,non-veg
+I067,Pav (bread roll per piece),indian,120,22,4,2.5,1.2,3,200,0,1,20,vegetarian
+I068,Bhuna Gosht (100g),indian,240,2,20,18,0,0,400,0,2,12,non-veg
+I069,Malabar Fish Biryani (per 200g),indian,320,40,12,12,3,4,520,0,1.6,45,non-veg
+I070,Aamras (mango pulp per 100g),indian,137,34.4,1,0.6,1,30,4,36,0.2,15,vegetarian
+I071,Rajma Chawal (per 200g),indian,280,48,13,4,12,3.5,250,2.6,3.7,50,vegetarian
+I072,Dal Fry (100g),indian,130,13,7,5,3.1,1.5,150,1.2,3.1,40,vegetarian
+I073,Misal Pav (per 200g),indian,330,47,10,10,6,6,750,0,3,60,vegetarian
+I074,Chicken Biryani (per 200g),indian,330,36,14,10,2,3.5,620,0,1.4,40,non-veg
+I075,Pongal Sambar (per 200g),indian,200,32,6,6,3,2.5,420,4,1.2,45,vegetarian
+I076,Puliyogare (tamarind rice 100g),indian,140,28,2,2,1.5,4.2,300,0,0.5,10,vegetarian
+I077,Bhuna Paneer (100g),indian,250,7,12,18,1.8,2,320,2,1,120,vegetarian
+I078,Chicken Curry (Andhra style 100g),indian,185,4,19,10,0,1.2,310,0,1.2,12,non-veg
+I079,Palak Chole (100g),indian,150,18,6,5,6,3.1,220,15,1.8,50,vegetarian
+I080,Vegetable Biryani (per 200g),indian,280,44,6,8,3,4.2,480,0,1.8,45,vegetarian
